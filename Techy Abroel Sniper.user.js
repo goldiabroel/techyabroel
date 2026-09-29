@@ -1,4 +1,7 @@
 // ==UserScript==
+// @updateURL      https://raw.githubusercontent.com/goldiabroel/techyabroel/main/TechyAbroelSniper.user.js
+// @downloadURL    https://raw.githubusercontent.com/goldiabroel/techyabroel/main/TechyAbroelSniper.user.js
+
 // @name         Techy Abroel Sniper Balanced Gold
 // @namespace    local.sniper.arb
 // @version      56.0
